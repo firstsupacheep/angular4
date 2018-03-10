@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/firstsupacheep/angular4/issues"
   },
-  "homepage": "https://github.com/firstsupacheep/angular4#readme"
+  "homepage": "https://github.com/firstsupacheep/angular4#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
